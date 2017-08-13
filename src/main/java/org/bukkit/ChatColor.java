@@ -66,7 +66,7 @@ public enum ChatColor {
     /**
      * Represents light purple
      */
-    LIGHT_PURPLE('d', 0xD),
+    PINK('d', 0xD),
     /**
      * Represents yellow
      */
